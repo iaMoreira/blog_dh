@@ -1,0 +1,28 @@
+article {
+    background: #FFFFFF;
+    box-shadow: 0px 0px 10px rgba(19, 19, 31, 0.05);
+    border-radius: 5px;
+    max-width: 900px;
+    width: 100%;
+    padding: 25px;
+    margin-bottom: 50px;
+}
+
+.caixa {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 22px;
+}
+
+article>h3 {
+    color: #1A202C;
+    font-size: 26px;
+    line-height: 32px;
+    margin-bottom: 8px;
+}
+
+p {
+    font-size: 18px;
+    line-height: 32px;
+    color: #717171;
+}

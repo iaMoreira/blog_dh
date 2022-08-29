@@ -1,0 +1,23 @@
+.post {
+  height: 100vh;
+  padding: 20px 60px 20px 60px;
+}
+
+.post > h1 {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.post > p {
+  margin-bottom: 20px;
+}
+
+section {
+  display: flex;
+  justify-content: center;
+  padding: 10px;
+}
+
+section > img {
+  width: 500px;
+}
